@@ -1,0 +1,9 @@
+FAKE WECHAT PWA - HUONG DAN IPHONE
+
+1. Giai nen ZIP.
+2. Tai 3 muc len THU MUC GOC repository GitHub: index.html, manifest.webmanifest, service-worker.js; va thu muc icons (gom 3 anh PNG).
+3. Commit changes. Kiem tra Settings > Pages: main / (root).
+4. Mo link GitHub Pages bang Safari, bam Chia se > Them vao Man hinh chinh; bat Mo duoi dang ung dung web neu co.
+5. Mo icon tren man hinh chinh. Neu van la ban cu, dong va mo lai app khi co mang.
+
+Du lieu luu trong bo nho trinh duyet; hay xuat sao luu JSON truoc khi cap nhat. Khong xoa du lieu website.
